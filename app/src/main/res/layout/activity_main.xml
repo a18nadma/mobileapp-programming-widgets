@@ -16,8 +16,8 @@
         <TextView
             android:layout_width="453dp"
             android:layout_height="156dp"
-            android:layout_marginLeft="100"
-            android:layout_marginTop="20"
+            android:layout_marginLeft="101dp"
+            android:layout_marginTop="20dp"
             android:fontFamily="sans-serif-black"
             android:lineSpacingExtra="8sp"
             android:text="Welcome to Nightsky"
@@ -29,7 +29,7 @@
             android:id="@+id/switch1"
             android:layout_width="366dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="50"
+            android:layout_marginLeft="50dp"
             android:layout_weight="1"
             android:text="Activate Stars"
             android:textColorLink="#FFEB3B" />
