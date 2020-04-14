@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="50dp"
             android:layout_weight="1"
-            android:text="Activate Star"
+            android:text="Activate Stars"
             android:textColorLink="#FFEB3B" />
 
         <ImageView
