@@ -36,6 +36,7 @@
             android:layout_width="93dp"
             android:layout_height="77dp"
             android:layout_weight="1"
+            android:layout_margin="30dp"
             app:srcCompat="@android:drawable/btn_star_big_on" />
     </LinearLayout>
 
